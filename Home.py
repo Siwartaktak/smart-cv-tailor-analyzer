@@ -10,6 +10,7 @@ import requests
 import json
 import re
 from datetime import datetime
+import PyPDF2
 import docx
 from pathlib import Path
 import plotly.graph_objects as go
